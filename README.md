@@ -1,6 +1,6 @@
 # PHP_Calculator
 
-An Android app that calculates how long it will take to create a new castle in the game.
+This project demonstrates the implementation of an object-oriented PHP system for calculating.
 
 ## Data 
 - **Madeira (wood)**: 100 hours to complete the build. 
