@@ -1,34 +1,58 @@
 # PHP_Calculator
 
-This project demonstrates the implementation of an object-oriented PHP system for calculating.
+This project demonstrates the implementation of an object-oriented PHP system for calculating and managing numbers.
 
-## Data 
-- **Madeira (wood)**: 100 hours to complete the build. 
-- **Ouro (gold)**: 25 hours to complete the build. 
-- **Diamante (diamond)**: 25 hours to complete the build.
-- Note: For each new builder available, construction time is halved, regardless of the material used.
+## 🚀 Features
 
-## Technologies Used 🛠️
-- **Kotlin**: Logic for calculations and validation.
-- **Android Studio**: Development environment.
-- **XML**: UI layout design.
+- 📝 Product registration with name, brand, quantity, and price
+- 📩 Form submission via POST method
+- 🔍 Display of submitted product details
+- 🛠 Object-oriented PHP structure with encapsulation
 
-## How to Use 🚀
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Leticia-Eto/GKotlin_Minecraft.git
+## 🛠️ Technologies Used
 
-2.Import the project into Android Studio.
+- PHP
+- HTML
+- CSS (Basic Styling)
 
-3.Run the app on an emulator or device.
+## 📜 Code Overview
 
-4.Enter the material type.
+The `Produto` class contains private attributes:
+- `$nome` (name)
+- `$marca` (brand)
+- `$qtd` (quantity)
+- `$preco` (price)
 
-5.Enter the number of builders .
+It also includes:
+- A constructor to initialize product details
+- Getter and setter methods for each attribute with type safety
 
-6.Tap the button.
+## 📌 Usage
 
-7.View the result.
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Leticia-Eto/php_poo.git
+cd php_poo
+```
+
+### 2. Run the Project
+- Use a local server (such as XAMPP, WAMP, or a built-in PHP server) to execute the script.
+```bash
+php -S localhost:8000
+```
+- Open `http://localhost:8000/index.php` in your browser.
+
+### 3. Expected Behavior
+- A form will appear for entering product details.
+- Upon submission, the data is processed and displayed in a structured format.
+
+### 4. Example Output
+```bash
+Nome: Camiseta
+Marca: Nike
+Quantidade: 5
+Preço: 99.9
+```
 
 <h2 id=author>:grin: Autor</h2>
 
