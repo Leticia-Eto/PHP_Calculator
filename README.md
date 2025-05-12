@@ -37,15 +37,6 @@ This repository demonstrates fundamental PHP concepts including form handling, c
 - CSS3
 - Google Fonts (Atkinson Hyperlegible Mono)
 
-## 🚀 Usage Instructions
-
-### Local Setup
-```bash
-git clone https://github.com/Leticia-Eto/php_poo.git
-cd php_poo
-```
-
-
 ## Access Files
 
 ### 1. Calculator
