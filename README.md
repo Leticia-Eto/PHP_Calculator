@@ -88,6 +88,10 @@ FOR
 0 1 2 3 4 5 6 7 8 9 
 ```
 
-## 📜 License
-This project is open-source and available under the MIT License.
+
+Developed by <a href="www.linkedin.com/in/leticia-eto-filo-candido-a05068304" target="_blank">Leticia Eto</a>
+
+<h2 id=licence>:lock: License</h2>
+<a href="https://github.com/Leticia-Eto/PHP_Calculator/blob/main/LICENSE" target="_blank">MIT</a>
+
 
